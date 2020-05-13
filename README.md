@@ -7,3 +7,5 @@ Juste une démo
 %Je fais une autre modif depuis GitHub
 
 __et maintenant sur mon PC !__
+
+_et encore depuis GitHub_
